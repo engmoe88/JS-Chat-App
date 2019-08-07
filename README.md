@@ -2,6 +2,7 @@
 Web based real-time chat app using socket.io and nodemon
 
 To start the app:
+
 1- download the repo to your local machine
 
 2- using your terminal, navigate to the repo 

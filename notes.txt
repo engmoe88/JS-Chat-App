@@ -1,0 +1,3 @@
+socket.io is a real time web socket communication. It allows real time communication between the client and the server.
+nodemon is a dependency that allows our server to automatically update without having to refresh everytime.
+
